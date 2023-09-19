@@ -1,0 +1,262 @@
+*{
+    box-sizing: border-box;
+}
+
+.section-one{
+    background-color: black;
+    display: flex;
+    /* display: grid; */
+    border-color: green;
+
+
+}
+.header{
+    color: white;
+    display:flex; 
+    padding:10px;
+    column-gap: 5px;
+    margin-left: 100px;
+}
+ .header-right{
+    display: flex; 
+    color: white; 
+    margin-left: 400px;
+    padding: 10px;
+    font-size: medium;
+
+} 
+
+.section-two{
+    background-color: white;
+    display: flex;
+}
+.content-right{
+    display:flex;
+    column-gap: 30px;
+    padding-left: 200px;
+    margin: 20px;
+
+}
+.home{
+    background-color: green;
+    color: white;
+    margin-bottom: 10px;
+    /* margin-top: 0px; */
+
+}
+.image{
+    padding-left: 90px;
+}
+.section-three{
+  background-color:black;
+  display: flex;
+  padding: 50px;
+
+
+}
+.content{
+    margin: 50px;    
+    background-color: white;
+    /* padding: 20px; */
+    /* padding-bottom: 0px;  */
+    /* width:33.33333; */
+    border: solid;
+    width: 100% ;
+
+}
+
+.footer{
+    color:white;
+    background-color: green;
+    margin: 0px; 
+    margin-left: 0px;
+    margin-right: 0px;
+    /* padding: 25px;  */
+   text-align: center;
+   padding: 20px;
+
+
+}
+
+h3{
+   /* justify-content: center; */
+   background-color: gray;
+   /* width: auto; */
+   padding: 20px;
+    margin: 10px;  
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+   text-align: center;
+}
+
+p{
+    margin: 30px;
+
+} 
+
+ .box{
+    padding-bottom: 30px;
+    margin-top: 0px;
+    text-align:center;
+    padding: 0px;
+
+} 
+
+.bb-footer{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    /* margin: 50px; */
+    margin-left: 50px;
+    width: 30%;
+    text-align: center;
+}
+
+h4{
+    margin-left: 90px;
+    padding: 10px;
+}
+
+.readmore{
+    margin-left: 190px; 
+    color: green;
+    /* background-color: aqua; */
+
+}
+
+.section-four{
+    display: flex;
+    background-color: white;
+}
+
+.right-content{
+    display: grid;
+    margin: 0px;
+    padding-top: 100px;
+    padding-right:50px;
+}
+
+.big-box{
+    margin: 50px ; 
+     margin-right: 80px; 
+    width: 200%; 
+    padding: 10px ;
+    padding-right: 50px;
+    padding-left: 10px;
+
+
+}
+
+.left-content{
+    margin: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 60px 30px;
+    margin-top: 0px;
+
+
+
+}
+img{
+    height: 60px;
+    /* padding-right: 90px; */
+}
+
+
+.section-four h4{
+    text-align: center;
+     margin-right: 110px; 
+    padding-right: 90px;
+    margin-left: 90px;
+    margin: auto;
+}
+
+.right-content h4{
+    /* text-align: center; */
+    padding-left: 80px;
+    padding-top: 40px;
+
+}
+.small-box1 h2{
+    margin: 10px;
+    margin-left: 90px;
+    /* margin-bottom: 50px; */
+    padding-top: 0px;
+}
+
+.small-box2 h2{
+    margin: 10px;
+    margin-left: 90px;
+    padding-top: 0px;
+
+}
+
+.small-box3 h2{
+    margin: 10px;
+    margin-left: 90px;
+    padding-top: 0px;
+}
+
+.section-5 {
+    background-color: rgb(202, 198, 198);
+    padding-top: auto; 
+    padding-bottom: 60px; 
+    background-color: gray;           
+}
+.section-5 div {
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+}
+.section-5 h3,p {
+    text-align: center;
+    margin: 0;
+}
+.div {
+    display: flex;
+}
+.left3 {
+    display: flex;
+    padding-right: 10px;
+}
+.right3 {
+    display: flex;
+    padding-left: 10px;
+}
+.div1 {
+    background-color: black;
+    height: 20vh;
+}
+.div2 {
+    background-color: orange;
+    color: white;
+    height: 20vh;
+    text-align: start;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.div3 {
+    background-color: rgb(9, 152, 209);
+    color: white;
+    height: 20vh;
+    text-align: start;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.div2 div {
+    border: solid;
+    max-width: auto;
+    margin: 20px;
+    margin-left: 0px;
+    text-align: center;
+    color: white;
+}
+.div3 div {
+    border: solid;
+    max-width: auto;
+    margin: 20px;
+    margin-left: 0px;
+    text-align: center;
+    color: white;
+}
