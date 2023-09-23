@@ -6,31 +6,25 @@ h4{
     color:whitesmoke;
     padding: 15px;
 }
-
 .section-one{
     width:100%;
     display: flex; 
     flex-wrap: wrap; 
     justify-content: center; 
 }
-
 .left{
-    width:500px;
-   
-   
+    width:500px; 
 }
-
 ul{
     display:flex;
 }
 .list{
     font-weight: 600;
     justify-content: left;
-    width:200px
+    width:200px;
 }
 .right{
-    width:500px;
-    
+    width:500px;   
 }
 h1{
     color: blueviolet;
@@ -42,7 +36,6 @@ h1{
     border-radius: 200px;
      display:inline-flex; 
 }
-
 .download{
     background-color:skyblue;
     padding: 20px 20px;
@@ -54,26 +47,22 @@ h1{
     background-color: rgba(181, 89, 13, 0.242);
     justify-content: center;
 }
-
 .head{
     text-align: center;
     padding: 25px;
     font-weight: 900;
 }
-
 .skills{
     flex-wrap: wrap; 
     display:flex; 
    justify-content: space-evenly;
 }
-
 .box{
     background-color: white;
     width: 200px;
     text-align: center;
     margin-bottom: 30px;
-    padding: 5px;
-    
+    padding: 10px;   
 }
 .section-three{
     display: flex;
@@ -85,23 +74,19 @@ h1{
     border: 10px solid white;
     padding-left: 20px;
 }
-
 .study{
     display: table-cell;
     list-style:none ;
     width: 600px;
     background-color: #edefef;
 }
-
 div>ul{
     padding-left: 0px;
 }
-
 .section-four{
     background-color:  #edefef;
     justify-content: center;
     padding-bottom: 30px;
-
 }
 .section-four h3{
     text-align: center;
@@ -120,12 +105,8 @@ div>ul{
     /* display: flex;  */
 }
 .cart{
-    width:33.33333%;
-
-   
+    width:33.33333%;  
 }
-
-
 .section-five{
     background-color: black; 
     padding-bottom: 30px;  
